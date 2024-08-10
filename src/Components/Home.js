@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <div className="home-container">
       <header className="header">
-        <img src="https://via.placeholder.com/100" alt="School Logo" className="logo" />
+        <img src="https://icon-library.com/images/university-icon-png/university-icon-png-12.jpg" alt="School Logo" className="logo" />
         <h1>Springdale Public School</h1>
       </header>
       <p className="introduction">
